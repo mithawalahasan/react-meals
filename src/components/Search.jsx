@@ -42,7 +42,6 @@ function Search() {
         >
           Surprise me!
         </button>
-        <button className="backtomeals">Back to All Meals</button>
       </form>
     </header>
   );
